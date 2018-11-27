@@ -3,3 +3,8 @@ for i in range(1,10):
 		print "even no"
 	else:
 		print "odd no"
+s = "vikas"
+s1 = "kumar"
+
+s3 = s+ s1
+print s3		
