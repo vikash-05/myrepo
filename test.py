@@ -8,4 +8,4 @@ s1 = "kumar"
 
 s3 = s+ s1
 print s3
-print s2
+print s
